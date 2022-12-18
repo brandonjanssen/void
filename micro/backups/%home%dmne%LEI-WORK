@@ -1,0 +1,213 @@
+
+# DEAD AIR ############################
+# DEAD AIR ############################
+Outcome:DEADAIR
+Ph#:+19895394942
+Reason:cx silence 
+
+
+# SUCCESS TRANSFER ########################
+# SUCCESS TRANSFER ########################
+Outcome:SUCCESS
+Ph#: +14782570647 
+Reason:CX AND LA CONNECTED
+
+# VOICE MAIL ################################
+# VOICE MAIL ################################
+Outcome:LEAVE VOICEMAIL 
+Ph#: +15203677008
+Reason:LEFT VM 
+
+
+# VOICE MAIL ################################
+# VOICE MAIL ################################
+Outcome:LEAVE VOICEMAIL 
+Ph#:+127
+Reason:IVR
+
+
+# ANSWER MACHINE  #################################
+# ANSWER MACHINE  #################################
+Outcome:AM
+Ph#: +16623168721
+Reason:MAILBOX NOT SET UP
+
+# ANSWER MACHINE  #################################
+Outcome:AM
+Ph#:+12522872840 
+Reason:Mailbox does not accept messages
+
+# ANSWER MACHINE  #################################
+Outcome:ANSWER MACHINE 
+Ph#:+13072698639
+Reason:IVR
+
+# ANSWER MACHINE  #################################
+Outcome:ANSWER MACHINE 
+Ph#:+12293141456 
+Reason: full VM
+
+# HUNG UP #################################
+# HUNG UP #################################
+Outcome:HU
+Ph#:+16628209307
+Reason:CX HU after intro
+
+# HUNG UP #################################
+# HUNG UP #################################
+Outcome:HU
+Ph#:+18179027746 
+Reason:CX HU 
+
+# HUNG UP #################################
+# HUNG UP #################################
+Outcome:HU
+Ph#:+14403353150   
+Reason:CX HU during intro
+
+# NOT INTERESTED ##################################
+# NOT INTERESTED ##################################
+Outcome:NI
+Ph#:+13185472951
+Reason:CX NI in  insurance
+
+# NOT INTERESTED/UPSET  ###########################
+# NOT INTERESTED/UPSET  ###########################
+Outcome:NI/upset
+Ph#:+19316758028
+Reason:CX NI not INTERESTED nd slightly upset
+
+# TRANSFER FAILED HUNG UP ########################
+# TRANSFER FAILED HUNG UP ########################
+Outcome:TRANSFER FAILED / HU 
+Ph#:+17089168611 
+Reason:CX HU went silent
+
+# ALREADY ENROLLED ##############################
+# ALREADY ENROLLED ##############################
+Outcome:ALREADY ENROLLED 
+Ph#:+19153452097 
+Reason:CX all ready has insurance
+
+# ALL READY HAS GOVERMENT BENIFTS #########
+# ALL READY HAS GOVERMENT BENIFTS #########
+Outcome:DQ GOVT INSURANCE 
+Ph#:+18436177176 
+Reason:GOVT INSURANCE foodstamps
+
+# CANT AFFORD    ######################
+# CANT AFFORD    ######################
+Outcome:DQ CAN'T AFFORD 
+Ph#:+17793497054
+Reason:BELOW 13K
+
+# DISQUALFIFED HAND OFF FRONTIER #############
+# DISQUALFIFED HAND OFF FRONTIER #############
+Outcome:DQ HANDOFF 
+Ph#:+
+Reason:FRONTER TALKING / ADVISED / CB      OR 
+AGENTS TAKING CALLS IN THE BACKGROUND
+
+# PANKER  #################################
+# PANKER  #################################
+Outcome:PRANK CALLER 
+Ph#:  +12104051996
+Reason:JUST PLAYING AROUND   
+
+# ADD To DO NOT CALL LIST ##################
+# ADD To DO NOT CALL LIST ##################
+Outcome:DNC 
+Ph#:+ +18436037832
+Reason:PROFANITY  OR CX REQ
+
+# ADD To DO NOT CALL LIST ##################
+# ADD To DO NOT CALL LIST ##################
+Outcome:DNC 
+Ph#:+14146144239
+Reason:was not clear on 
+
+# COACHED CALL  #############################
+# COACHED CALL  #############################
+Outcome:DQ COACHED CALL 
+Ph#:+
+Reason: BEING COACHED 
+CALLED AGAIN AND GAVE DIFFERENT INFO TO QUALIFY
+
+# WOULD NOT AGREE TO DISCLAMER  ##########################
+# WOULD NOT AGREE TO DISCLAMER  ##########################
+Outcome:TCPA FAIL
+Ph#:+
+Reason:NO TO THE DISCLAIMER 
+DID NOT SAY A CLEAR YES TO THE DISCLAIMER
+
+# INCENTIVIZED  ######################################
+# INCENTIVIZED  ######################################
+Outcome:DQ INCENTIVIZED 
+Ph#:+14402281168
+Reason: WAS PROMISED SOMETHING (MONEY OR GIFT CARDS)
+
+
+# TRANSFER FAILED / SET CALLBACK  ########################
+Outcome:TRANSFER FAILED / set callback
+Ph#: +17859255510 
+Reason:CX no LA available
+
+# DQ BAD STATE  ################################
+# DQ BAD STATE  ################################
+OUTCOME: dq bad state 
+PH#:+16613502803  
+REASON: no avail LA /CA 4x
+
+# DQ AGE  #####################################
+# DQ AGE  #####################################
+OUTCOME: DQ Age
+PH#:+12179311873
+REASON: to old
+
+# BAD CONNECTION ################################
+# BAD CONNECTION ################################
+OUTCOME: dq bad connection
+PH#:+16823262653
+REASON: never heard a ring
+
+# Callback Scheduled #############################
+# Callback Scheduled #############################
+OUTCOME: Callback Scheduled
+PH#: +19124255152 
+REASON: cx is interested in insurance 
+
+# NO ENGLISH   #############################
+# NO ENGLISH   #############################
+OUTCOME:Does not speak English
+PH#:+12542299328
+REASON:speak spanish
+
+# Dropped Callback now ##########################
+# Dropped Callback now ##########################
+Outcome: Dropped CB now 
+Phone:+13802109180
+Reason: CB now
+
+# NUMBER NOT IN SERVICE ##############
+# NUMBER NOT IN SERVICE ##############
+OUTCOME: number not in service
+PH#:13347967561
+REASON:
+ 
+# ADD TO DNC #####################
+# ADD TO DNC #####################
+OUTCOME: ADD TO DNC
+PH#:+17863402999
+REASON: Does not want calls
+
+# DID NOT APPLY  ####################
+# DID NOT APPLY  ####################
+OUTCOME: did not apply
+Ph:+13057310080
+Reason: or wrong number
+
+# WRONG NUMBER ##################
+# WRONG NUMBER ##################
+OUTCOME: Wrong number
+PH#: 18176827144 
+REASON:Business Number
